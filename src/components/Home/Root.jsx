@@ -1,5 +1,4 @@
 import About from "./About/About";
-import TabsMain from "./GlobalPartners/TabsMain";
 // import Goal from "./Goal/Goal";
 import Hero from "./Hero/Hero";
 // import Plan from "./Plan/Plan";

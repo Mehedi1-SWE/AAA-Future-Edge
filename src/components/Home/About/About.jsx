@@ -8,15 +8,17 @@ const About = () => {
           
           <img src="https://i.postimg.cc/yd3qY7WH/Whats-App-Image-2022-03-16-at-9-58-23-AM.jpg" className="rounded-lg"alt="" />
           <div className="mx-0 lg:mx-10">
-            <h1 className=" hidden lg:block lg:text-4xl  font-[Inter] flex flex-col my-8">
+            <h1 className="contents">
+            <span className=" hidden lg:block lg:text-4xl  font-[Inter] flex flex-col my-8">
               <span className="font-bold">AAA Future-Edge is a</span>
               <span className="bg-clip-text text-[#f58a1f]"> Management Consulting</span>
               <span className="font-bold"> Firm</span>
-            </h1>
-            <h1 className="block lg:hidden text-2xl  my-4  font-[Inter]  ">
+            </span>
+            <span className="block lg:hidden text-2xl  my-4  font-[Inter]  ">
               <span className="font-bold">AAA Future-Edge is a </span>
               <span className="bg-clip-text text-[#f58a1f]"> Management Consulting</span>
               <span className="font-bold"> Firm</span>
+            </span>
             </h1>
             <p className="text-[#4C4C4C] font-[24px] font-[Inter] text-justify">
             Specializing in HR solutions that align with a company's mission and strategic vision. Our expertise spans across key HR functions, including talent acquisition, 

@@ -14,9 +14,9 @@ const CareerCouncilingAbout = () => {
         <div>
           <section className="flex items-center h-full">
             <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
-              <h1 className="text-white font-bold text-3xl lg:text-5xl ml-6 ">
+              <h2 className="text-white font-bold text-3xl lg:text-5xl ml-6 ">
                 About Us
-              </h1>
+              </h2>
               <div className="px-5 mt-12">
                 <div className="grid grid-cols-1 gap-3 lg:gap-5 sm:grid-cols-1 mt-100">
                   <div className="flex items-start">

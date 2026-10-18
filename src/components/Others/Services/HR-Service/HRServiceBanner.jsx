@@ -8,9 +8,9 @@ const HRServiceBanner = () => {
         <div className="px-4 lg:container lg:mx-auto lg:max-w-[1300px] lg:pt-28 lg:pb-28">
           <div className="grid gap-10 lg:grid-cols-2">
             <div className="lg:pr-10 mt-20">
-              <h5 className="mb-4 text-3xl lg:text-6xl font-bold text-white">
+              <h1 className="mb-4 text-3xl lg:text-6xl font-bold text-white">
                 HR Services
-              </h5>
+              </h1>
               <p className="mb-6 text-white max-w-[700px]">
                 A Human Resource Information System (HRIS) is a software
                 solution that integrates and manages an organization&apos;s HR

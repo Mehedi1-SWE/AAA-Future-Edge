@@ -46,9 +46,9 @@ const Navbar = () => {
                     </div>
                     <div className="flex justify-center items-center">
                       <div>
-                        <h1 className="text-lg font-semibold mb-2">
+                        <h2 className="text-lg font-semibold mb-2">
                           HR STRATEGY
-                        </h1>
+                        </h2>
                       </div>
                     </div>
                   </div>
@@ -68,9 +68,9 @@ const Navbar = () => {
                     </div>
                     <div className="flex justify-center items-center">
                       <div>
-                        <h1 className="text-lg font-semibold mb-2">
+                        <h2 className="text-lg font-semibold mb-2">
                           SCOPE OF WORKS
-                        </h1>
+                        </h2>
                       </div>
                     </div>
                   </div>
@@ -97,9 +97,9 @@ const Navbar = () => {
                     src="https://i.postimg.cc/BbWkjFDL/Rectangle-29-2.png"
                     alt="HR Strategy"
                   />
-                  <h1 className="text-lg font-semibold my-2 text-center">
+                  <h2 className="text-lg font-semibold my-2 text-center">
                     HR Services
-                  </h1>
+                  </h2>
                 </div>
               </Link>
 
@@ -112,9 +112,9 @@ const Navbar = () => {
                     src="https://i.postimg.cc/X7bt3w4t/Rectangle-31.png"
                     alt="HR Strategy"
                   />
-                  <h1 className="text-lg font-semibold my-2 text-center">
+                  <h2 className="text-lg font-semibold my-2 text-center">
                     Core Services
-                  </h1>
+                  </h2>
                 </div>
               </Link>
               <Link scroll={false}
@@ -126,9 +126,9 @@ const Navbar = () => {
                     src="https://i.postimg.cc/j2z9PjQ8/Rectangle-32.png"
                     alt="HR Strategy"
                   />
-                  <h1 className="text-lg font-semibold my-2 text-center">
+                  <h2 className="text-lg font-semibold my-2 text-center">
                     Career Counseling
-                  </h1>
+                  </h2>
                 </div>
               </Link>
             </div>

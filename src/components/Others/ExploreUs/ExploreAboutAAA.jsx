@@ -43,11 +43,11 @@ const ExploreAboutAAA = () => {
                   className="relative mt-5 inline-flex items-center justify-center p-4 px-6 py-3 overflow-hidden font-medium text-[#f58a1f] transition duration-300 ease-out border-2 border-[#f58a1f] hover:border-none rounded-lg shadow-md group"
                 >
                   <span className="absolute inset-0 flex items-center justify-center w-full h-full text-white duration-300 -translate-x-full bg-[#f58a1f] group-hover:translate-x-0 ease">
-                    <FaLinkedin classNameName="w-6 h-6"></FaLinkedin>
+                    <FaLinkedin></FaLinkedin>
                   </span>
                   <span className="absolute flex text-lg items-center justify-center w-full h-full text-[#f58a1f] transition-all duration-300 transform group-hover:translate-x-full ease">
                     LinkedIn
-                    <IoArrowRedo classNameName="ml-2" />
+                    <IoArrowRedo />
                   </span>
                   <span className="relative invisible"> LinkedIn</span>
                 </a>

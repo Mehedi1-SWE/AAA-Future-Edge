@@ -2,9 +2,9 @@ const TalentManagement = () => {
   return (
     <div>
       <div className=" px-4 lg:container lg:mx-auto lg:max-w-[1300px]">
-        <h1 className="font-bold text-3xl lg:text-5xl text-center my-10 lg:my-20">
+        <h2 className="font-bold text-3xl lg:text-5xl text-center my-10 lg:my-20">
           Talent Management
-        </h1>
+        </h2>
         <div className="flex flex-col bg-white border rounded shadow-sm md:justify-center lg:flex-row">
           <div className="flex flex-col justify-between p-5 border-b sm:p-10 lg:border-b-0 lg:border-r lg:w-1/2">
             <div>

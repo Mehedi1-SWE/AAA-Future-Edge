@@ -2,9 +2,9 @@ const PlanningPolicy = () => {
   return (
     <div className="bg-[#F5F5F5]">
       <div className="pt-20 pb-20">
-        <h1 className="text-center text-5xl pt-5 pb-10 font-bold">
+        <h2 className="text-center text-5xl pt-5 pb-10 font-bold">
           Privacy & Policy
-        </h1>
+        </h2>
         <div className="px-4 lg:container lg:mx-auto lg:max-w-[1300px]">
           <div className="relative grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
             {/* Card 1 */}

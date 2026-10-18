@@ -62,12 +62,12 @@ const BlogMain = () => {
                     alt={post.author.name}
                   />
                   <div className="mx-4">
-                    <h1 className="text-sm text-gray-700">{post.author.name}</h1>
+                    <h2 className="text-sm text-gray-700">{post.author.name}</h2>
                     <p className="text-sm text-gray-500">{post.author.role}</p>
                   </div>
                 </div>
               </div>
-              <h1 className="mt-6 text-xl font-semibold text-gray-800">{post.title}</h1>
+              <h2 className="mt-6 text-xl font-semibold text-gray-800">{post.title}</h2>
               <hr className="w-32 my-6 text-blue-500" />
               <p className="text-sm text-gray-500 text-justify">{post.description}</p>
               <a href="#" className="inline-block mt-4 text-blue-500 underline hover:text-blue-400">

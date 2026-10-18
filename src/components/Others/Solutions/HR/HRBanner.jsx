@@ -8,9 +8,9 @@ const HRBanner = () => {
         <div className="relative px-4 lg:container lg:mx-auto ">
           <div className="grid lg:grid-cols-2 items-center pt-10 lg:pt-28">
             <div className="">
-              <h5 className="mb-4 text-3xl lg:text-6xl font-bold text-white">
+              <h1 className="mb-4 text-3xl lg:text-6xl font-bold text-white">
                 HR Strategy
-              </h5>
+              </h1>
               <p className="mb-6 text-white max-w-[600px]">
                 Dedicated to igniting growth and innovation in businesses
                 worldwide. With a passionate team of experts, we offer strategic
@@ -24,7 +24,7 @@ const HRBanner = () => {
             </div>
 
             <div className="pt-20 ">
-              <img src={img1} className="" alt="Marketing Strategy" />
+              <img src={img1} className="" alt="Job search illustration with a person using a laptop" />
             </div>
           </div>
         </div>

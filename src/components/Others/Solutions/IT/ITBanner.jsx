@@ -7,9 +7,9 @@ const ITBanner = () => {
       <div className=" px-4 lg:container lg:mx-auto lg:pt-28 pb-28 lg:max-w-[1300px]">
         <div className="grid gap-10 lg:grid-cols-2">
           <div className="lg:pr-10 mt-20">
-            <h5 className="mb-4 text-3xl lg:text-6xl font-bold text-white">
+            <h1 className="mb-4 text-3xl lg:text-6xl font-bold text-white">
               IT Strategy
-            </h5>
+            </h1>
             <p className="mb-6 text-white max-w-[700px]">
               Dedicated to igniting growth and innovation in businesses
               worldwide. With a passionate team of experts, we offer strategic

@@ -15,9 +15,9 @@ const Compliance = () => {
           <div>
             <section className="flex items-center h-full font-[Inter]">
               <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 mt-10">
-                <h1 className="text-gray-900 font-bold text-5xl ml-6 ">
+                <h2 className="text-gray-900 font-bold text-5xl ml-6 ">
                   Compliance & Regulatory
-                </h1>
+                </h2>
                 <p className="text-gray-900 ml-6 mt-4  mb-6 text-justify ">
                   HR compliance and regulatory services involve ensuring that an
                   organization's human resource practices adhere to local,

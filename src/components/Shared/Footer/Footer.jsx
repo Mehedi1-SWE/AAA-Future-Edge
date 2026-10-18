@@ -2,10 +2,7 @@
 
 import Link from "next/link";
 const logo = "/flogo.png";
-import { useState } from "react";
 import {
-  FaChevronDown,
-  FaChevronUp,
   FaFacebookSquare,
   FaLinkedin,
   FaInstagram,
@@ -15,12 +12,6 @@ import { MdEmail, MdLocationOn } from "react-icons/md";
 import { BsTelephoneFill } from "react-icons/bs";
 
 const Footer = () => {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const toggleDropdown = () => {
-    setIsOpen(!isOpen);
-  };
-
   return (
     <div className="bg-gray-900 text-white">
       <footer className="container mx-auto px-5 lg:px-20 py-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
